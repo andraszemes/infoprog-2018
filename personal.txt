@@ -1,0 +1,6 @@
+Tisztelt Dér Leonóra,
+Köszönöm a válaszát az emailemre, azonban mire kézhez kaptam, már nem volt lehetõségem változtatni a program adatbázisán. Tudatosítom, hogy más versenyzõk esetleg nem számoltak a lehetõséggel, de kérem nézze el, amiért tanácsa ellenére mégis így oldottam meg a feladatot.
+Sajnos nem volt sok idõm a program elkészítésére, így elõfordulhatnak kisebb hibák futás közben. Ha bármi probléma lépne fel, vagy nem tudná elindítani a programot, kérem írjon a zemes.andras@gmail.com címre.
+Köszönöm a megértését.
+Üdvözlettel
+Zemes András
